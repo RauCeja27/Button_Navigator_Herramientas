@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itmLinterna"
+        android:icon="@drawable/linterna_selector"
+        android:title="Linterna"/>
+
+    <item
+        android:id="@+id/itmMusica"
+        android:icon="@drawable/musica_selector"
+        android:title="Musica"/>
+
+    <item
+        android:id="@+id/itmNivel"
+        android:icon="@drawable/nivel_selector"
+        android:title="Nivel"/>
+
+</menu>
